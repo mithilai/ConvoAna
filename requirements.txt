@@ -1,0 +1,13 @@
+groq
+streamlit
+python-dotenv
+requests
+whisper
+pydub
+ffmpeg-python
+torch
+vosk
+transformers
+whisper-timestamped
+openai-whisper
+pyaudioop
